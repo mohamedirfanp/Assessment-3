@@ -1,2 +1,1 @@
-﻿carrom,teama,10,teamb,0,False
-carrom,t1,10,t2,0,False
+chess_tournament,t1,15,t2,10,True
